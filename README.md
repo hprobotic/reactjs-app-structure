@@ -1,1 +1,1 @@
-# reactjs-app-structure
+# Reactjs app structure
